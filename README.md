@@ -5,13 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Exploring+Tech+%26+Learning+Every+Day;Let's+build+something+awesome!" />
 </p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-  <div style="background-color: #f5f5f5; padding: 10px; border-radius: 10px; border: 1px solid #ddd;">
-    <img alt="Coding" width="330" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </div>
-
-  <div>
     <h3>About me</h3>
     - 💼 Hands-on with <strong>AWS Bedrock</strong> & <strong>Azure Databricks</strong> @ <strong>Centillion</strong><br/>
     - 🔧 Explored Flask + MySQL for backend projects @ <strong>Pinesphere</strong><br/> 
