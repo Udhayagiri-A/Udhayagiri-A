@@ -18,10 +18,12 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
 ### 🧠 Languages & Tools I Use
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -51,7 +53,8 @@
   → Console-based secure ATM system with account auth, transactions, and validation.
 
 
-<div align="center">
+<div align="left">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
