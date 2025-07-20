@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Exploring+Tech+%26+Learning+Every+Day;Let's+build+something+awesome!" />
 </p>
 
-<img align="right" alt="Coding" width="330" height="250" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoc3dpd2Jzbzg1dnZydWR6bWwwcDV6YXdsZTlmZ2JvcXFhYmI3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" />
+<img align="right" alt="Coding" width="330" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoc3dpd2Jzbzg1dnZydWR6bWwwcDV6YXdsZTlmZ2JvcXFhYmI3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 
 - 💼 Hands-on with **AWS Bedrock** & **Azure Databricks** @ **Centillion**  
