@@ -7,7 +7,6 @@
 
 <img align="right" alt="Coding" width="330" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
 
 - 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology** | CGPA `8.57`  
 - 💼 Intern @ **Centillion** – AWS Bedrock, Azure Databricks  
@@ -17,7 +16,6 @@
 - ⚡ Fun Fact: I break bugs before they break me 😎
 
 
----
 
 ### 🧠 Languages & Tools I Use
 
