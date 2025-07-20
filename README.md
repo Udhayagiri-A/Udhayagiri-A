@@ -58,9 +58,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" width="450" />
   <br/><br/>
-  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" width="450" />
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka" alt="LeetCode Stats" width="450" />
 </p>
-
 <br/>
 <br/>
 
