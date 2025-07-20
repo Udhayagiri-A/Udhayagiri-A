@@ -1,20 +1,23 @@
 <h1 align="center">Hey 👋, I'm Udhayagiri A</h1>
-<h3 align="center">🚀 Final Year CSE Undergraduate 
+<h3 align="center">🚀 Final Year CSE Undergraduate</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Driven+by+passion+for+tech+%26+learning;Let's+build+something+awesome!"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Let's+build+something+awesome!" alt="Typing SVG">
+</p>
 
-
-<img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="right">
+  <img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ---
 
-- 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology**, CGPA: `8.56`  
+- 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology**, CGPA: `8.57`  
 - 🧑‍💼 **Intern @ Centillion** | Working on **AWS Bedrock**, **Databricks on Azure**  
-- 🔧 Previously: Backend Intern @ **Pinesphere** (Flask + MySQL)  
+- 🔧 Backend Intern @ **Pinesphere** (Flask + MySQL)  
 - 🧠 Core: Data Structures, DBMS, OOPs, Software Engineering  
-- 🤝 Vice President – CSE Department (2024–2025)
-- 💡 Currently Building: **AI-powered web apps**, **data pipelines**, and preparing for **SIH 2024**
-- ⚡ Fun fact: I know how to break bugs before they break my brain 😄
+- 🤝 Vice President – CSE Department (2024–2025)  
+- 💡 Currently Building: **AI-powered web apps**  
+- ⚡ Fun fact: I break bugs before they break me 😎
 
 ---
 
