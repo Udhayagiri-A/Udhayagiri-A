@@ -21,6 +21,8 @@
 <br/>
 
 ### 🧠 Languages & Tools I Use
+<br/>
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
@@ -51,14 +53,19 @@
   *Java, JDBC, MySQL*  
   → Console-based secure ATM system with account auth, transactions, and validation.
 
+<br/>
+<br/>
+<br/>
 
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="150" width="250px/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </div>
 
 
-
+<br/>
+<br/>
+<br/>
 
 ### 📫 Let's Connect
 
