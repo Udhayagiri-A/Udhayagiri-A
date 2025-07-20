@@ -20,8 +20,7 @@
 <br/>
 <br/>
 
-### 🧠 Languages & Tools I Use
-<br/>
+### 🧠 Languages & 🛠 Tools I Use
 <br/>
 
 <div align="left">
@@ -55,15 +54,14 @@
 
 <br/>
 <br/>
-<br/>
 
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="150" width="250px/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="200" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" height="200" width="400px" />
 </div>
 
 
-<br/>
+
 <br/>
 <br/>
 
