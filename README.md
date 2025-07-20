@@ -56,13 +56,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" width="450" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" width="450" />
+  <br/><br/>
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" width="450" />
 </p>
-
-
-
 
 <br/>
 <br/>
@@ -74,10 +71,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udhayagiri-A&label=Profile+Views&color=blueviolet&style=flat"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Happy+Coding!"/>
