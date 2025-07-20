@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year CSE Undergraduate 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+build+something+awesome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Driven+by+passion+for+tech+%26+learning;Let's+build+something+awesome!"/>
 </p>
 
 <img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -83,4 +83,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Udhayagiri-A&label=Profile+Views&color=blueviolet&style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Happy+Coding!"/>
 </p>
