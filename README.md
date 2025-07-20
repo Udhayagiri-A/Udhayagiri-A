@@ -5,21 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Exploring+Tech+%26+Learning+Every+Day;Let's+build+something+awesome!" />
 </p>
 
-<div style="float: right; background-color: #f5f5f5; padding: 10px; border-radius: 10px; border: 1px solid #ddd; width: fit-content;">
-  <img alt="Coding" width="330" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoc3dpd2Jzbzg1dnZydWR6bWwwcDV6YXdsZTlmZ2JvcXFhYmI3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <div style="background-color: #f5f5f5; padding: 10px; border-radius: 10px; border: 1px solid #ddd;">
+    <img alt="Coding" width="330" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  </div>
+
+  <div>
+    <h3>About me</h3>
+    - 💼 Hands-on with <strong>AWS Bedrock</strong> & <strong>Azure Databricks</strong> @ <strong>Centillion</strong><br/>
+    - 🔧 Explored Flask + MySQL for backend projects @ <strong>Pinesphere</strong><br/> 
+    - 📚 Core: DSA, DBMS, OOPs<br/> 
+    - 🤝 Vice President, CSE Department  (June 2024 - June 2025)<br/> 
+    - ⚡ Fun Fact: I break bugs before they break me 😎
+  </div>
+
 </div>
 
-
-
-- 💼 Hands-on with **AWS Bedrock** & **Azure Databricks** @ **Centillion**
-  <br/>
-- 🔧 Explored Flask + MySQL for backend projects @ **Pinesphere**
-  <br/> 
-- 📚 Core: DSA, DBMS, OOPs
-  <br/> 
-- 🤝 Vice President, CSE Department  (June 2024 - June 2025)
-  <br/> 
-- ⚡ Fun Fact: I break bugs before they break me 😎
 
 <br/>
 <br/>
@@ -40,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
----
 
 ### Stuff I’ve Built 💻
 
@@ -62,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
----
 
 
 ### 📫 Let's Connect
@@ -72,7 +72,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Udhayagiri-A&label=Profile+Views&color=blueviolet&style=flat"/>
