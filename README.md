@@ -13,9 +13,6 @@
     - 📚 Core: DSA, DBMS, OOPs<br/> 
     - 🤝 Vice President, CSE Department  (June 2024 - June 2025)<br/> 
     - ⚡ Fun Fact: I break bugs before they break me 😎
-  </div>
-
-</div>
 
 
 <br/>
