@@ -6,14 +6,14 @@
 </p>
 
 <img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
+<div>
     <h3>About me</h3>
     - 💼 Hands-on with <strong>AWS Bedrock</strong> & <strong>Azure Databricks</strong> @ <strong>Centillion</strong><br/>
     - 🔧 Explored Flask + MySQL for backend projects @ <strong>Pinesphere</strong><br/> 
     - 📚 Core: DSA, DBMS, OOPs<br/> 
     - 🤝 Vice President, CSE Department  (June 2024 - June 2025)<br/> 
     - ⚡ Fun Fact: I break bugs before they break me 😎
-
+</div>
 
 <br/>
 <br/>
