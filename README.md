@@ -19,8 +19,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 ### 🧠 Languages & Tools I Use
 
 <div align="left">
@@ -53,10 +52,11 @@
   → Console-based secure ATM system with account auth, transactions, and validation.
 
 
-<div align="left">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" height="150"/>
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </div>
+
 
 
 
