@@ -1,85 +1,86 @@
 <h1 align="center">Hey 👋, I'm Udhayagiri A</h1>
-<h3 align="center">🚀 Passionate CSE Undergrad | 💻 Full Stack Dev | 📊 Data Engineer in Progress</h3>
+<h3 align="center">🚀 Final Year CSE Undergraduate | Backend Developer | Data Engineering Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Driven+by+passion+for+tech+%26+learning;Backend+%7C+Flask+%7C+Data+Pipelines+%7C+PySpark+%7C+AWS+%7C+Java;Let's+build+something+awesome!"/>
+</p>
 
 <img align="right" alt="Coding" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 3rd Year CSE Student at Dr. N.G.P. Institute of Technology  
-- 🤝 Vice President, CSE Department  
-- 🔭 Currently working on **an animal detection system for two-wheelers**  
-- 🌱 Learning **PySpark**, **AWS**, and **Cloud Data Engineering**  
-- 💡 Participating in **Smart India Hackathon 2024**  
-- ⚡ Fun fact: I break bugs before they break me 😎  
+---
+
+- 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology**, CGPA: `8.56`  
+- 🧑‍💼 **Intern @ Centillion** | Working on **AWS Bedrock**, **Databricks on Azure**  
+- 🔧 Previously: Backend Intern @ **Pinesphere** (Flask + MySQL)  
+- 🧠 Core: Data Structures, DBMS, OOPs, Software Engineering  
+- 🤝 Vice President – CSE Department (2024–2025)
+- 💡 Currently Building: **AI-powered web apps**, **data pipelines**, and preparing for **SIH 2024**
+- ⚡ Fun fact: I know how to break bugs before they break my brain 😄
 
 ---
 
 ### 🧠 Languages & Tools I Use
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+</div>
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+- 🔥 **AI-Powered Recipe Suggester Web App**  
+  *React, OpenRouter AI, JSON-Server*  
+  → AI-based suggestion engine with dynamic dish ideas and step-by-step instructions.  
+  → User login & recipe display based on ingredients.
+
+- 🌦️ **Weather Application**  
+  *Python, Flask, OpenWeather API*  
+  → Realtime weather data based on location using Flask for backend APIs.
+
+- 🏦 **Bank Management System**  
+  *Java, JDBC, MySQL*  
+  → Console-based secure ATM system with account auth, transactions, and validation.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Udhayagiri-A&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" height="150"/>
+</div>
+
+---
+
+### 🔍 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Udhayagiri-A&bg_color=0d1117&color=58a6ff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📫 Let's Connect
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/flask.png" title="Flask"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/fluency/48/000000/spark.png" title="PySpark"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <a href="mailto:udhayaigirayavu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Udhayagiri-A"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
-
----
-
-### 🛠 Tools & IDEs
-
-<p>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/anaconda--v2.png" title="Anaconda"/>
-  <img src="https://img.icons8.com/color/48/notion.png" title="Notion"/>
-  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-### 🔥 GitHub Activity Graph
-
-[![Udhayagiri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=58a6ff&line=9ecaed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📚 Featured Projects
-
-- 🎯 [Animal Detection for Two-Wheelers](https://github.com/yourusername/animal-detection) – Smart road safety project
-- 📝 [Task Management System](https://github.com/yourusername/task-manager) – Flask + MySQL project
-- 🧠 [E-commerce PySpark Analysis](https://github.com/yourusername/ecommerce-analysis) – Transaction aggregation and insights
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 💻 Workspace Setup
-
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/Processor-AMD_Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/Graphics-NVIDIA_GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Happy+Coding!;Java+Flask+PySpark+Lover;Let's+build+something+awesome!"/>
+  <img src="https://komarev.com/ghpvc/?username=Udhayagiri-A&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
