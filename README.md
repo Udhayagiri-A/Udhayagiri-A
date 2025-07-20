@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-<br/>
+
 ### Stuff I’ve Built 💻
 
 - 👨🏻‍🍳 **AI-Powered Recipe Suggester Web App**  
