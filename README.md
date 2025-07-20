@@ -1,28 +1,21 @@
 <h1 align="center">Hey 👋, I'm Udhayagiri A</h1>
-<h3 align="center">🚀 Final Year CSE Undergraduate </h3>
+<h3 align="center">🚀 Final Year CSE Undergraduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=On+a+journey+of+constant+learning+and+tech+discovery;Let's+build+something+awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Exploring+Tech+%26+Learning+Every+Day;Let's+build+something+awesome!" />
 </p>
 
-<table>
-  <tr>
-    <td>
+<img align="right" alt="Coding" width="330" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology**, CGPA: `8.57`  
-- 🧑‍💼 **Intern @ Centillion** | Working on **AWS Bedrock**, **Databricks on Azure**  
-- 🔧 Backend Intern @ **Pinesphere** (Flask + MySQL)  
-- 🧠 Core: Data Structures, DBMS, OOPs, Software Engineering  
-- 🤝 Vice President – CSE Department (2024–2025)  
-- 💡 Currently Building: **AI-powered web apps**  
-- ⚡ Fun fact: I break bugs before they break me 😎
+---
 
-</td>
-    <td>
-      <img align="center" alt="Coding" width="300" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-    </td>
-  </tr>
-</table>
+- 🎓 Final Year CSE @ **Dr. N.G.P. Institute of Technology** | CGPA `8.57`  
+- 💼 Intern @ **Centillion** – AWS Bedrock, Azure Databricks  
+- 🔧 Backend Intern @ **Pinesphere** – Flask + MySQL  
+- 📚 Core: DSA, DBMS, OOPs, SE  
+- 🤝 VP – CSE Dept (2024–25)  
+- ⚡ Fun Fact: I break bugs before they break me 😎
+
 
 ---
 
