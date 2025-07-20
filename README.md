@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-
+<br/>
 ### Stuff I’ve Built 💻
 
 - 👨🏻‍🍳 **AI-Powered Recipe Suggester Web App**  
@@ -55,10 +55,12 @@
 <br/>
 <br/>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" height="200" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" height="200" width="400px" />
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Udhayagiri?theme=dark&font=Fredoka&ext=heatmap" alt="LeetCode Stats" width="450" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayagiri-A&layout=compact&theme=tokyonight" alt="Top Languages" width="450" />
+</p>
+
 
 
 
